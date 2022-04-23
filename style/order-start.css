@@ -1,0 +1,14 @@
+.columns {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  width: 100%;
+  padding: 1.5em;
+  gap: 15px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
