@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    viewBox="0 0 744.09 1052.4"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+    >
+    <g
+        id="g5870"
+        transform="matrix(6.93 0 0 6.9413 -2520.3 -1722.3)"
+      >
+      <path
+          id="path5750"
+          d="m-234.36 222.02c0 56.905-41.608 103.04-92.934 103.04s-92.934-46.131-92.934-103.04c0-56.905 41.608-103.04 92.934-103.04s92.934 46.131 92.934 103.04z"
+          transform="matrix(.53802 0 0 .48527 593.68 213.88)"
+          stroke="#000"
+          stroke-width="1.9786"
+          fill="#fff"
+      />
+      <path
+          id="path5752"
+          stroke="#000"
+          transform="matrix(.32117 0 0 .28968 522.71 257.31)"
+          d="m-234.36 222.02c0 56.905-41.608 103.04-92.934 103.04s-92.934-46.131-92.934-103.04c0-56.905 41.608-103.04 92.934-103.04s92.934 46.131 92.934 103.04z"
+      />
+      <text
+          id="text5754"
+          font-size="16.771px"
+          xml:space="preserve"
+          style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+          line-height="294.00000572%"
+          font-family="AppleMyungjo"
+          fill="#000000"
+        >
+        <textPath
+            id="textPath5760"
+            xlink:href="#path5758"
+            startOffset="50%"
+          >
+          <tspan
+              id="tspan5756"
+            >suitable for</tspan
+          >
+        </textPath
+        >
+      </text
+      >
+      <path
+          id="path5758"
+          fill="none"
+          d="m386.49 332.88c-14.997-36.306 37.228-62.944 61.429-28.929"
+      />
+      <text
+          id="text5763"
+          style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+          transform="matrix(-1 0 0 -1 836.24 645.6)"
+          xml:space="preserve"
+          font-size="16.771px"
+          font-family="AppleMyungjo"
+          line-height="294.00000572%"
+          fill="#000000"
+        >
+        <textPath
+            id="textPath5765"
+            xlink:href="#path5758"
+            startOffset="50%"
+          >vegetarians</textPath
+        >
+      </text
+      >
+      <path
+          id="path5769"
+          d="m450.46 312.72c14.997 36.306-38.656 60.801-62.857 26.786"
+          fill="none"
+      />
+      <g
+          id="g5776"
+          transform="matrix(.64863 0 0 .5 656.91 191.8)"
+          fill="#fff"
+        >
+        <path
+            id="rect5771"
+            d="m-347.5 225.55h9.0914l-26 76.772h-9.0914z"
+        />
+        <path
+            id="path5774"
+            d="m-390.41 225.55h-9.0914l26 76.772h9.0914z"
+        />
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Suitable For Vegetarians Food Stamp</dc:title
+        >
+        <dc:date
+          >2013-08-28T10:46:26</dc:date
+        >
+        <dc:description
+          >A 'Suitable for Vegetarians' food stamp I designed for some food packaging. Can be used on your own food label designs.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/182359/suitable-for-vegetarians-food-stamp-by-jart-182359</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >JArt</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >Food</rdf:li
+            >
+            <rdf:li
+              >Label</rdf:li
+            >
+            <rdf:li
+              >Packaging</rdf:li
+            >
+            <rdf:li
+              >Stamp</rdf:li
+            >
+            <rdf:li
+              >Suitable</rdf:li
+            >
+            <rdf:li
+              >Trade mark</rdf:li
+            >
+            <rdf:li
+              >Vegetarians</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
