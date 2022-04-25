@@ -15,21 +15,17 @@
   <div class="page-wrapper">
 
     <div class="header border">
-      <div class="logo"><img id="logo-image" src="./images/default-icons/food-truck.svg"></a></div>
-      <div class="title"><span id="title">Melt Your Face Off</span></div>
+      <div class="logo"><img src="./images/default-icons/food-truck.svg"></a></div>
+      <div class="title">Melt Your Face Off</div>
     </div>
 
 
     <div class="content border">
-      <div class="columns">
-        <div class="left border">
-          <button class="button">Melt</button>
-          <button class="button">Patty Melt</button>
-          <button class="button">Extra Sauce</button>
-          <button class="button">Soda</button>
-          <button class="button">Water-bottle</button>
-        </div>
-        <div class="right border">Current Order</div>
+      <div class="left border">
+        <div id="product-list"></div>
+      </div>
+      <div class="right border">
+        <div id="cart-list"></div>
       </div>
     </div>
 
@@ -39,7 +35,32 @@
     </div>
   </div>
 
-  <script src="./javascript/index.js" async></script>
+  <template id="product-template">
+    <div class="product-item">
+      <button class="product-button">
+        <img class="product-img" />
+        <div class="product-name"></div>
+        <div class="product-price"></div>
+      </button>
+    </div>
+  </template>
+
+  <template id="cart-template">
+    <div class="cart-item">
+      <div class="cart-name"></div>
+      <button class="cart-del cart">X</button>
+      <input class="cart-qty" type="number" min="0" />
+    </div>
+  </template>
+
+
+  <template id="cart-checkout">
+    <button class="checkout-empty" onclick="cart.nuke()">Empty</button>
+    <button class="checkout-checkout" onclick="cart.checkout()">Checkout</button>
+  </template>
+
+  <script src="./javascript/cart.js" async></script>
+  <script src="./javascript/products.js" async></script>
 </body>
 
 </html>
